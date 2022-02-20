@@ -77,3 +77,8 @@ crashlytics-build.properties
 
 # Blender backups
 *.blend[0-9]*
+
+# VRWorld Toolkit build statistics
+# We don't upload builds, so these are probably worthless to us
+/Assets/_[Ll]ast[Bb]uild/
+/Assets/_[Ll]ast[Bb]uild.meta
